@@ -1,0 +1,21 @@
+190428 - TIL
+
+1. 폼 안에 버튼을 눌렀을 때 자바스크립트 함수가 실행이 되지 않는다.
+
+알고보니 input 태그의 id와 함수의 이름이 동일해서 생기는 문제였다.
+
+https://unordinarydays.tistory.com/53
+
+2. 비밀번호 암호화
+
+https://shj7242.github.io/2017/12/10/Spring31/
+https://songc92.tistory.com/46
+https://to-dy.tistory.com/70
+
+3. web.xml 한글 인코딩 설정
+https://homesi.tistory.com/entry/Spring%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%EB%B0%A9%EC%A7%80%EB%A5%BC-%EC%9C%84%ED%95%B4-webxml%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EC%84%A4%EC%A0%95
+https://maxim365.tistory.com/138
+
+4. 폼에서 데이터 가져올때 name이 VO에 있는 이름과 같아야한다.
+
+5. 로그인, 회원가입 페이지 완료

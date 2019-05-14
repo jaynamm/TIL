@@ -1,0 +1,22 @@
+190323 - 통그리 프로젝트 시작
+
+1. 스프링 프로젝트 생성하기
+
+2. 기본적인 구조 잡아놓기 - spring mvc, mybatis, tiles, db 연동
+
+  - spring mvc project 생성 : project jegacy > spring mvc project
+
+  - 스프링 mvc 구조부터 이해하기
+
+project fects / deployment assembly 설정이 원래 되어있다.....
+
+프로젝트를 다시 생성하니까 된다....
+
+
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/tonggri]]
+
+
+
+Caused by: java.lang.UnsupportedClassVersionError: org/springframework/web/SpringServletContainerInitializer : Unsupported major.minor version 52.0 (unable to load class [org.springframework.web.SpringServletContainerInitializer])
+
+왜 톰켓이 연동이 안되는걸까/...?
