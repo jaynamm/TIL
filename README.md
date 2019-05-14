@@ -9,8 +9,9 @@ It is a repository that writes the contents of study every day.
 
 # Example
 
-### title : date - TIL.md
-### contents
+### title
+	date - TIL.md
+### < contents >
 ##### list1
 	list1 contents
 ##### list2
