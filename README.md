@@ -1,13 +1,13 @@
 # Today I Learned
 It is a repository that writes the contents of study every day.
 
-< contents >
+### < contents >
 * daily note
 * web programming
 * algorithm
 * study English
 
-< Example >
+# < Example >
 
 ### title : date - TIL.md
 ### contents
