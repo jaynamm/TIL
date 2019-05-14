@@ -7,7 +7,7 @@ It is a repository that writes the contents of study every day.
 * algorithm
 * study English
 
-# < Example >
+# Example
 
 ### title : date - TIL.md
 ### contents
