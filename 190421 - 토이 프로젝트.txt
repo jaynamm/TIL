@@ -1,7 +1,0 @@
-190421 - 토이 프로젝트
-
-1. 디버깅하기 - mybatis 쿼리 로그 출력 및 정렬
-	https://its-easy.tistory.com/21
-
-2. 이메일 인증
-	https://thiago6.tistory.com/38
