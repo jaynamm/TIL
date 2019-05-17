@@ -6,11 +6,12 @@ It is a repository that writes the contents of study every day.
 * web programming
 * algorithm
 * study English
+* etc ...
 
 # Example
 
 ### < title >
-	date - TIL.md
+	date.md
 ### < contents >
 ##### list1
 	list1 contents
