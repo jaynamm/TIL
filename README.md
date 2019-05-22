@@ -11,7 +11,7 @@ It is a repository that writes the contents of study every day.
 # Example
 
 ### < title >
-	date.md
+	YYMMDD.md
 ### < contents >
 ##### list1
 	list1 contents
