@@ -66,3 +66,6 @@
     git 이용해서 버전 관리 해보기
     brunch 사용해서 여러 브런치에 commit 후 pull request 해서 master brunch에 올려보기
     
+##### block chain
+    블록체인을 이용해서 간단한 프로젝트를 해보면 재밌을 것 같다.
+    핀테크에서 이용하고 있지만 현재 다른 분야에서도 사용하고 있다고 한다.
