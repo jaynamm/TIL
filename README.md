@@ -1,5 +1,5 @@
 # Today I Learned
-It is a repository that writes the contents of study every day.
+It's a repository that writes the contents of study every day.
 
 ### < contents >
 * daily note
@@ -13,11 +13,10 @@ It is a repository that writes the contents of study every day.
 ### < title >
 	YYMMDD.md
 ### < contents >
-##### list1
+# YY MM DD
+##### list1 title
 	list1 contents
-##### list2
+##### list2 title
 	list2 contents
-##### list3
+##### list3 title
 	list3 contents
-### < thinks >
-	think abont the day and write that.
