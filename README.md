@@ -11,5 +11,5 @@
 
 ## 분류
 
-### 지난 기록들
-* [2019년 처음 개발을 배우면서 공부했던 기록](https://github.com/jaynamm/TIL/blob/master/%EC%A7%80%EB%82%9C%20%EB%82%A0%EC%9D%98%20%EA%B8%B0%EB%A1%9D)
+* [생각정리](https://github.com/jaynamm/TIL/blob/master/%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC)
+* [2019년 처음 개발을 배우면서 공부했던 기록들](https://github.com/jaynamm/TIL/blob/master/%EC%A7%80%EB%82%9C%20%EB%82%A0%EC%9D%98%20%EA%B8%B0%EB%A1%9D)
