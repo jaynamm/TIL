@@ -12,4 +12,4 @@
 ## 분류
 
 ### 지난 기록들
-* [지난 날의 기록](https://github.com/jaynamm/TIL/blob/master/%EC%A7%80%EB%82%9C%20%EB%82%A0%EC%9D%98%20%EA%B8%B0%EB%A1%9D)
+* [2019년 처음 개발을 배우면서 공부했던 기록](https://github.com/jaynamm/TIL/blob/master/%EC%A7%80%EB%82%9C%20%EB%82%A0%EC%9D%98%20%EA%B8%B0%EB%A1%9D)
